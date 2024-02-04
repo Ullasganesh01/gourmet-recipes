@@ -1,0 +1,58 @@
+.width-fit-content{
+  width: fit-content;
+}
+
+.container-fluid {
+  width: 90%;
+}
+
+.custom_nav-container .navbar-nav {
+  margin-left: 17vw !important;
+}
+
+.login-section {
+  font-family: "Open Sans", sans-serif;
+}
+
+.login-section aside {
+  margin: auto;
+  width: 30vw;
+  padding-top: 22px;
+}
+
+.login-section h4 {
+  text-align: center;
+  margin: auto;
+}
+
+.login-section label {
+  font-weight: 500;
+  font-size: medium;
+  font-family: none;
+}
+
+.login-section .login-btn-div {
+  width: max-content;
+  margin: auto;
+}
+
+.login-section .text-center p {
+  font-size: medium;
+  font-weight: 400;
+  font-family: none;
+}
+
+.login-section .backend-msg {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.login-section .logo {
+  width: fit-content;
+  margin: auto;
+}
+
+.footer_section {
+  position: relative;
+  top: 10.2vh;
+}
